@@ -22,6 +22,5 @@ dijkstra_bhavana_rao.py file directly.
 pathfinding visualization.
 - You can also close the window to exit the program at any time.
 5) Observe the visualization
-6) Close the Pygame window to exit the program once you have finished 
-observing the visualization.
+6) Close the Pygame window to exit the program once you have finished observing the visualization.
 
